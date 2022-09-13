@@ -21,7 +21,7 @@ const Xxmbxxmb = {
     },
   Proyects: [
       {Prode: ['React', 'Redux Toolkit', 'NodeJs', 'Express', 'Prisma', 'JWT']},
-      {Poke-App: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize']}
+      {PokeApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize']}
     ],
   FutureTecnologies: ['Solidity', 'Blockchain', 'Ruby'],
   Aspirations: ['MachineLearning']
