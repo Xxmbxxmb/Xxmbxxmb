@@ -1,4 +1,4 @@
-![portada](https://www.discordianos.com/uploads/monthly_2019_02/banner2.gif.07387723d705b1784ccbf177733f0216.gif)
+![portada](https://deals.anker.com/dist/u5-MsproVK.gif)
 
 # **Hello, i am [Diego Cerda](https://www.linkedin.com/in/emanuel-juri/)** <img width="40" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
