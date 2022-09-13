@@ -3,7 +3,7 @@
 # **Hello, I'm [Diego Cerda](https://www.linkedin.com/in/emanuel-juri/)** <img width="40" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
 Engineering degree from Universidad del Desarrollo with a major in finance.   <br>
-Today I am totally excited and focused on continuing my career as a Full Stack Developer, meeting new challenges and learning new technologies that will help me grow in this path, especially I want to develop in the blockchain area eventually. 
+Today I am totally excited and focused on continuing my career as a Full Stack Developer, meeting new challenges and learning new technologies that will help me grow in this path, especially I want to develop in the blockchain area eventually. <br>
 I really like everything that is Front-end as well as Back-end.<br>
 <br>
 
