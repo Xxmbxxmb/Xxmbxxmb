@@ -4,7 +4,7 @@
 
 Engineering degree from Universidad del Desarrollo with a major in finance.   <br>
 Today I am totally excited and focused on continuing my career as a Full Stack Developer, meeting new challenges and learning new technologies that will help me grow in this path, especially I want to develop in the blockchain area eventually.
-Me gusta mucho todo lo que es Front-end como Back-end.<br>
+I really like everything that is Front-end as well as Back-end.<br>
 <br>
 
 ## Lenguajes y herramientas
