@@ -7,7 +7,7 @@ Today I am totally excited and focused on continuing my career as a Full Stack D
 I really like everything that is Front-end as well as Back-end.<br>
 <br>
 
-## Lenguajes y herramientas
+## Languages and tools
 ```js
 const Xxmbxxmb = {
   Skills: {
@@ -29,7 +29,7 @@ const Xxmbxxmb = {
 ```
 
 
-## 📌 Mis Proyectos
+## 📌 My Projects
 ### Prode
 Prode was our proposed idea for the final project of SoyHenry's Full Stack Development bootcamp. 
 It is a SPA that was created with the purpose of making sports bets between friends or online with other people. The main features of the project is to be able to create user, log in, modifiable profile, data persistence, admin panel, among others...<br>
@@ -77,7 +77,7 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 <br>
 
 
-## 📫 Contacto 
+## 📫 Contact me 
 
 <p>
     <a href="https://diegocerdacelis@hotmail.com">
@@ -87,7 +87,7 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
     <br>
     <a href="https://www.linkedin.com/in/diegocerdacelis/">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
-      Diego Cerda
+      Diego Cerda Celis
     </a>
 <p/>
 
