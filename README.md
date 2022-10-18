@@ -23,8 +23,8 @@ const Xxmbxxmb = {
       {Prode: ['React', 'Redux Toolkit', 'NodeJs', 'Express', 'Prisma', 'JWT']},
       {PokeApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize']}
     ],
-  FutureTecnologies: ['Solidity', 'Blockchain', 'Ruby'],
-  Aspirations: ['MachineLearning']
+  FutureTechnologies: ['Solidity', 'Blockchain', 'Ruby'],
+  Aspirations: ['Blockchain Developer']
 }
 ```
 
