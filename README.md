@@ -16,7 +16,7 @@ const Xxmbxxmb = {
           {Python: ['Numpy', 'Pandas', 'Matplot']}
         ],
       FrontEnd: [
-          {JavaScript: ['React', 'Redux Toolkit']}
+          {JavaScript: ['React', 'React Native', 'Redux Toolkit']}
         ]
     },
   Proyects: [
