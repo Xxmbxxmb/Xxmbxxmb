@@ -30,6 +30,8 @@ const Xxmbxxmb = {
 
 
 ## 📌 My Projects
+You can check my projects on [my portfolio](https://xxmb-portfolio.xyz) ! 
+<!--
 ### Prode
 Prode was our proposed idea for the final project of SoyHenry's Full Stack Development bootcamp. 
 It is a SPA that was created with the purpose of making sports bets between friends or online with other people. The main features of the project is to be able to create user, log in, modifiable profile, data persistence, admin panel, among others...<br>
@@ -91,9 +93,6 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
     </a>
 <p/>
 
-
-
-<!--
 **Xxmbxxmb/Xxmbxxmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
