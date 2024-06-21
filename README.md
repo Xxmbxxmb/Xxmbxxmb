@@ -11,23 +11,28 @@ I really like everything that is Front-end as well as Back-end.<br>
 ```js
 const Xxmbxxmb = {
   Skills: {
-      BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'JWT', 'Typescript', 'Prisma']},
-          {Python: ['Numpy', 'Pandas', 'Matplot']}
-        ],
-      FrontEnd: [
-          {JavaScript: ['React', 'React Native', 'Redux Toolkit']}
-        ]
+    BackEnd: {
+      Javascript: ['NodeJs', 'Express', 'Nest JS'],
+      Python: ['Flask', 'Django'],
+      Java: ['Springboot']
     },
-  Proyects: [
-      {Prode: ['React', 'Redux Toolkit', 'NodeJs', 'Express', 'Prisma', 'JWT']},
-      {PokeApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize']}
-    ],
-  FutureTechnologies: ['Solidity', 'Blockchain', 'Ruby'],
-  Aspirations: ['Blockchain Developer']
+    FrontEnd: {
+      Javascript: ['React', 'React Native', 'Redux Toolkit', 'Next JS', 'Vue']
+    },
+    Blockchain: ['Solidity', 'Ethers', 'Web3'],
+    Database: {
+      Relational: ['Postgres', 'MySQL', 'Sequelize', 'Prisma'],
+      NoRelational: ['MongoDB', 'Firebase']
+    },
+    DataHandling: ['Numpy', 'Pandas', 'Matplotlib'],
+    CloudServer: ['Google Cloud Platform']
+  }
 }
 ```
-
+<!--   Projects: {
+    Prode: ['React', 'Redux Toolkit', 'NodeJs', 'Express', 'Prisma', 'JWT'],
+    PokeApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize']
+  },-->
 
 ## 📌 My Projects
 You can check my projects on [my portfolio](https://xxmb-portfolio.xyz) ! 
